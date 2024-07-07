@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @sugandhabrol
-- 🌱 I’m currently learning Data Analytics
+- I am a Full Stack DEveloper.
+- - 🌱 I’m currently learning Data Analytics
 -Reach me out at - abrolsugandh@gmail.com
 
 
